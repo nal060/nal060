@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+I'm currently exploring NLP, machine learning, and the inner workings of transformer models. 
+
+**Ongoing Projects:**
+
+- Applying LLM interpretability techniques such as activation patching to study hallucinations in speech-based LLMs.
+- Using deep learning architectures to predict reading proficiency from eye-tracking data.
+- Building multilingual detoxification models to reduce harmful LLM outputs.
+- Contributing to `Moo4Feed`, an R package for animal welfare from feeding behavior.
+- Enhancing Korean and Indonesian parsing with morphosyntactic features via UniDive.
+
 <!--
 **nal060/nal060** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
