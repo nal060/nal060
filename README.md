@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm currently exploring NLP, machine learning, and the inner workings of transformer models. 
+I'm currently doing research in NLP, machine learning, and the inner workings of transformer models. 
 
 **Ongoing Projects:**
 
