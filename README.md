@@ -6,7 +6,7 @@ I'm currently doing research in NLP, machine learning, and the inner workings of
 
 - Applying LLM interpretability techniques such as activation patching to study hallucinations in speech-based LLMs.
 - Using deep learning architectures to predict reading proficiency from eye-tracking data. (vtnet-hai)
-- Building multilingual detoxification models to reduce harmful LLM outputs. (textdetox)
+- Building multilingual detoxification models to reduce harmful LLM outputs. (text-detox)
 - Contributing to `Moo4Feed`, an R package for animal welfare from feeding behavior. 
 - Enhancing Korean and Indonesian parsing with morphosyntactic features via UniDive. (uni-dive)
 
