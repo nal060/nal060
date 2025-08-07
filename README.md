@@ -4,7 +4,7 @@ I'm currently doing research in NLP, machine learning, and the inner workings of
 
 **Ongoing Projects:**
 
-- Applying LLM interpretability techniques such as activation patching to study hallucinations in speech-based LLMs.
+- Applying LLM interpretability techniques such as activation patching to study speech-based LLMs.
 - Using deep learning architectures to predict reading proficiency from eye-tracking data. (vtnet-hai)
 - Building multilingual detoxification models to reduce harmful LLM outputs. (text-detox)
 - Contributing to `Moo4Feed`, an R package for animal welfare from feeding behavior. 
